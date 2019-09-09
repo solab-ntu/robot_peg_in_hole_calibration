@@ -1,0 +1,44 @@
+# temp data
+.vscode
+__pycache__
+*.yaml
+*.pyc
+*.gz
+*.zip
+*.txt
+
+# images
+*.apng
+*.mng
+*.tiff
+*.tif
+*.svg
+*.svgz
+*.pdf
+*.xbm
+*.bmp
+*.dib
+*.ico
+*.3dm
+*.max
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi
+*.jp2
+*.j2k
+*.jpf
+*.jpx
+*.jpm
+*.mj2
+*.jxr
+*.hdp
+*.wdp
+*.gif
+*.raw
+*.webp
+
+# Exception
+!config.yaml

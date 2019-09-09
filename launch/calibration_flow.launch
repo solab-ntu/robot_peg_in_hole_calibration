@@ -1,0 +1,7 @@
+<launch>
+  <arg name="robot_name" default="vs060" />
+  <node name="calibration_flow" pkg="calibration_flow" type="calibration_flow.py" respawn="false" output="screen" 
+  args="joint_states:=/$(arg robot_name)/joint_states">
+  </node>
+
+</launch>

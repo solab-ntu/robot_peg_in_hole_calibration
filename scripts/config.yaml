@@ -1,0 +1,12 @@
+ROOT: '/data/denso_ws/src/denso_robot_ros/calibration_flow/scripts/'
+robotCalibration: '/data/denso_ws/src/denso_robot_ros/calibration_flow/scripts/0_robotCalibration/'
+ACenter:  '/data/denso_ws/src/denso_robot_ros/calibration_flow/scripts/1_autoCenter/'
+AFocus:  '/data/denso_ws/src/denso_robot_ros/calibration_flow/scripts/2_autoFocus/'
+APose:  '/data/denso_ws/src/denso_robot_ros/calibration_flow/scripts/3_autoPose/'
+PoseEstimation:  '/data/denso_ws/src/denso_robot_ros/calibration_flow/scripts/4_cameraPoseEstimation/'
+solveXZ: '/data/denso_ws/src/denso_robot_ros/calibration_flow/scripts/5_solveXZ/'
+holeSearching: '/data/denso_ws/src/denso_robot_ros/calibration_flow/scripts/6_holeSearching/'
+TCPCalibration: '/data/denso_ws/src/denso_robot_ros/calibration_flow/scripts/7_TCPCalibration/'
+pegInHole: '/data/denso_ws/src/denso_robot_ros/calibration_flow/scripts/8_pegInHole/'
+accuracyTest: '/data/denso_ws/src/denso_robot_ros/calibration_flow/scripts/9_accuracyTest/'
+
